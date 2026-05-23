@@ -1,0 +1,2 @@
+DEVICE_ID = "xx:xx:xx:xx:xx:xx"
+SERVICE_UUID = "01479191-0000-1000-8000-00805f9b34fb"
