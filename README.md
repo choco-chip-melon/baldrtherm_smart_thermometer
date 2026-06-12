@@ -3,10 +3,10 @@
 Qiitaで紹介したPythonとBleakを使ってBaldrTerm温湿度センサーからBLE通信で温度・湿度・電波状況を取得するサンプルです。
 
 ## リンク
-* Qiita:
+* Qiita:  
 https://qiita.com/Choco-chip_melon-pan/items/0394b340c01c72a62400
 
-* はてなブログ:
+* はてなブログ:  
 https://choco-cjip.hatenablog.com/entry/2026/04/15/224309
 
 ## 確認済動作環境
