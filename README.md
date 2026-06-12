@@ -22,22 +22,22 @@ pip install bleak
 
 ## 内容
 
-* device_scan.py
+* device_scan.py  
 デバイスをスキャンしてデバイスIDを取得する。
 
-* device_info.py
+* device_info.py  
 デバイスIDを記述する。
 
-* check_service.py
+* check_service.py  
 サービスIDを確認する。
 
-* check_notify.py
+* check_notify.py  
 広告モードで流れてくるデータを確認する。
 
-* tmp_Linear_regression.py
+* tmp_Linear_regression.py  
 センサー画面の温度値と、広告モードで流れてくるデータの生値をもとに、最小二乗法で温度を計算する係数を求める。
 
-* get_temp_and_hum.py
+* get_temp_and_hum.py  
 BaldrTerm温湿度センサーからBLE通信で温度・湿度・電波状況を取得する
 
 ## ライセンス
